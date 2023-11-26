@@ -1,6 +1,5 @@
 ---
 title: 'Tesla'
-title: 'Tesla Stock dataset'
 author: 'Richeek'
 description: 'Dataset of Tesla Stock'
 modified: '2023-11-26'
@@ -21,13 +20,6 @@ This is Tesla Stock Price
 
 
 <LineChart 
-    title="Tesla Dataset"  
-    xAxis="Date"
-    yAxis="High" 
-    data="TSLA.csv"
-/>
-
-<mermaid
     title="Tesla Dataset"  
     xAxis="Date"
     yAxis="High" 
